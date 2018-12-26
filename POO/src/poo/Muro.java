@@ -1,2 +1,3 @@
 package poo;
-public class Muro;
+public class Muro {
+}
