@@ -1,2 +1,3 @@
 package poo;
-public class Clasificación;
+public class Clasificación{
+}
