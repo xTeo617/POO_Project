@@ -1,2 +1,3 @@
 package poo;
-public class Partida;
+public class Partida {
+}
