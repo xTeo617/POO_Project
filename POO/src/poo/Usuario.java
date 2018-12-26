@@ -1,2 +1,3 @@
 package poo;
-public class Usuario;
+public class Usuario {
+}
