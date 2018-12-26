@@ -1,2 +1,3 @@
 package poo;
-public class Trivia;
+public class Trivia {
+}
