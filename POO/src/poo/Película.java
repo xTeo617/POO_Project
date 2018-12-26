@@ -1,3 +1,3 @@
 package poo;
-public class Pelicula {
+public class Película {
 }

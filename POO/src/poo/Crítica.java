@@ -1,3 +1,3 @@
 package poo;
-public class Critica {
+public class Crítica {
 }
